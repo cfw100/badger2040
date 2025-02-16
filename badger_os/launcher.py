@@ -7,8 +7,6 @@ import badger_os
 import pngdec
 import jpegdec
 
-# added a comment
-
 APP_DIR = "/examples"
 FONT_SIZE = 2
 
